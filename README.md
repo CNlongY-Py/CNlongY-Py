@@ -1,5 +1,5 @@
-__Github/我=佬__
-
-__无聊的时候会写一些小东西__
-
-__~~Python3:只要写的快,优化不存在~~__
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
